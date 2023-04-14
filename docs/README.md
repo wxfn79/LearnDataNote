@@ -1,6 +1,6 @@
 ---
 article: false
-title: LearnData 开源笔记
+title: Life, Learn and Record
 icon: note
 ---
 
@@ -9,11 +9,11 @@ icon: note
 <a href="https://discord.gg/PZTQfJ4GjX">
    <img src="https://img.newzone.top/2022-12-04-11-56-44.svg" alt="Discord">
 </a>  
-<a href="mailto:learndata@newzone.top">
+<a href="mailto:wxfn79@gmail.com">
    <img src="https://img.newzone.top/2022-12-04-11-58-19.svg" alt="Mail">
 </a>
 
-## ✨ 这是我的第一次网页测试尝试
+## ✨ First try
 
 曾经，我把知识记录在 Notion、Obsidian、飞书等知识管理软件上，导致笔记散落各处，使用起来很麻烦，也难以对外分享。
 
