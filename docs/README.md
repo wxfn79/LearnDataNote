@@ -13,7 +13,7 @@ icon: note
    <img src="https://img.newzone.top/2022-12-04-11-58-19.svg" alt="Mail">
 </a>
 
-## ✨ 初衷
+## ✨ 这是我的第一次网页测试尝试
 
 曾经，我把知识记录在 Notion、Obsidian、飞书等知识管理软件上，导致笔记散落各处，使用起来很麻烦，也难以对外分享。
 
