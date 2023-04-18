@@ -1,0 +1,1 @@
+import{_ as o,Y as t,Z as n,$ as e}from"./framework-0d329256.js";const s={},_=e("p",null,"Loser",-1),r=e("p",null,"Explorer",-1),c=e("p",null,"Recorder",-1),l=e("p",null,"Rookie photographer",-1),i=[_,r,c,l];function a(d,p){return t(),n("div",null,i)}const u=o(s,[["render",a],["__file","intro.html.vue"]]);export{u as default};
