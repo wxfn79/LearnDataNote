@@ -3,10 +3,10 @@
 home: true
 layout: BlogHome
 icon: home
-title: 互联网小白
-#heroImage: /logo.svg
-heroText: 互联网小白
-tagline: 盛年不重来，一日难再晨
+title: HYPERPNEA
+#heroImage: /imgs/avatar.jpg
+heroText: HYPERPNEA
+tagline: Listen to me, thank you. Because you have warmed the four seasons.😃
 bgImage: /imgs/bgImage-shapotou.jpeg
 heroFullScreen: false
 #projects:
