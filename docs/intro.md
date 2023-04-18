@@ -1,13 +1,13 @@
 ---
 article: false
-title: 个人介绍
+title: Profile
 icon: any
 ---
 
-互联网广告人，
+Loser
 
-迷信新工具、新方法，
+Explorer
 
-坚持批评与自我批评，对每一个机遇保持开放的态度，勇于尝试新鲜事物，
+Recorder
 
-热衷于研究开源软件和心理学理论，定期分享探索成果。
+Rookie photographer
