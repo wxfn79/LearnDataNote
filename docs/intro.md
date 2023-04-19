@@ -1,6 +1,6 @@
 ---
 article: false
-title: Profile
+title: 个人简介
 icon: any
 ---
 
