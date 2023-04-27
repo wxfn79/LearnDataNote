@@ -7,7 +7,7 @@ title: HYPERPNEA
 #heroImage: /imgs/avatar.jpg
 heroText: HYPERPNEA
 tagline: Listen to me, thank you. Because you have warmed the four seasons.😃
-bgImage: /imgs/bgImage-shapotou.jpeg
+bgImage: /imgs/bgImage-grassland.jpeg
 heroFullScreen: false
 #projects:
 #  - icon: project
