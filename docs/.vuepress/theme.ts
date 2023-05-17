@@ -75,7 +75,7 @@ export default hopeTheme({
     roundAvatar: true,
     medias: {
       GitHub: "https://github.com/wxfn79",
-      YouTube: "https://www.youtube.com/channel/UCWIFGTc4IfK0u1thYFjYrdg","icons/YouTube-Logo.svg",
+      YouTube: "https://www.youtube.com/channel/UCWIFGTc4IfK0u1thYFjYrdg",
       Wechat: "/imgs/wechatqrcode.svg",
       Email: "mailto:wxfn79@gmail.com",
       Discord: "https://discord.gg/PZTQfJ4GjX",
