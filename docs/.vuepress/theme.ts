@@ -75,11 +75,7 @@ export default hopeTheme({
     roundAvatar: true,
     medias: {
       GitHub: "https://github.com/wxfn79",
-      Zhihu: "https://www.zhihu.com/people/qingwhat",
-      '少数派': [
-        "https://sspai.com/u/zqj05i4v/posts",
-        path.resolve(__dirname, "icons/sspai.svg"),
-      ],
+      YouTube: "https://www.youtube.com/channel/UCWIFGTc4IfK0u1thYFjYrdg","icons/YouTube-Logo.svg",
       Wechat: "/imgs/wechatqrcode.svg",
       Email: "mailto:wxfn79@gmail.com",
       Discord: "https://discord.gg/PZTQfJ4GjX",
