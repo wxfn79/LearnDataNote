@@ -78,7 +78,6 @@ export default hopeTheme({
       YouTube: "https://www.youtube.com/channel/UCWIFGTc4IfK0u1thYFjYrdg",
       Wechat: "/imgs/wechatqrcode.svg",
       Email: "mailto:wxfn79@gmail.com",
-      Discord: "https://okjk.co/hyYjmN",
       Jike: "https://okjk.co/hyYjmN",
     },
   },
