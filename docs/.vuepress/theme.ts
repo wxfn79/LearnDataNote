@@ -80,7 +80,7 @@ export default hopeTheme({
       Email: "mailto:wxfn79@gmail.com",
       'Jike': [
         "https://okjk.co/hyYjmN",
-        path.resolve(__dirname, "icons/sspai.svg"),
+        path.resolve(__dirname, "icons/jike.svg"),
       ],
     },
   },
