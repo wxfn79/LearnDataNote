@@ -79,7 +79,7 @@ export default hopeTheme({
       Wechat: "/imgs/wechatqrcode.svg",
       Email: "mailto:wxfn79@gmail.com",
       Discord: "https://discord.gg/PZTQfJ4GjX",
-      RSS: "https://newzone.top/rss.xml",
+      Jike: "https://okjk.co/hyYjmN",
     },
   },
   // 开发模式下是否启动热更新，显示所有更改并重新渲染
