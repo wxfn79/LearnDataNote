@@ -78,7 +78,10 @@ export default hopeTheme({
       YouTube: "https://www.youtube.com/channel/UCWIFGTc4IfK0u1thYFjYrdg",
       Wechat: "/imgs/wechatqrcode.svg",
       Email: "mailto:wxfn79@gmail.com",
-      Jike: "https://okjk.co/hyYjmN",
+      'Jike': [
+        "https://okjk.co/hyYjmN",
+        path.resolve(__dirname, "icons/sspai.svg"),
+      ],
     },
   },
   // 开发模式下是否启动热更新，显示所有更改并重新渲染
